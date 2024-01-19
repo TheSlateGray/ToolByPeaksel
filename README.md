@@ -1,11 +1,12 @@
-ToolByPeaksel
-What is it?
+# ToolByPeaksel
+
+**What is it?**
 
 Tool by Peaksel is a prompt helper extension for Web UI. Built for beginners and professionals alike, it will enrich and speed up your workflow and improve the final quality of the resulting images.
 
 Using random values will help you generate an unlimited number of prompts in one go, so it is perfect for composition hunting and prompt fin-tuning - the initial stage.
 
-How to install?
+**How to install?**
 
 You can install this extension by going to Extensions > Install from URL and pasting the GitHub link into the field, or by downloading and putting the folder manually to your SD root > Extensions folder.
 
@@ -13,23 +14,25 @@ https://github.com/Peaksel/ToolByPeaksel
 
 To have all working out of the box, download and unzip negative embeddings and female character embeddings into your SD Root > Embeddings folder.
 
-Negative Embeddings https://app.box.com/s/mme8qwckkxf155nzv5h1wy291md53y53
+Negative Embeddings
+https://app.box.com/s/mme8qwckkxf155nzv5h1wy291md53y53
 
-Female characters embeddings https://app.box.com/s/mmo5mnyp6eqmg15bcy3xyjswsn8i5sim
+Female characters embeddings
+https://app.box.com/s/mmo5mnyp6eqmg15bcy3xyjswsn8i5sim
 
-How to use
+**How to use**
 
 The “General” Tab should be used for all the images. “Female Character” or “Male Character” - should be used on top of “General” for character creation.
 
 Use your positive and negative prompts as usual. Values you choose from the script will be added to the prompt.
 
-I. Tab: General
+**I. Tab: General**
 
 “Beautifiers” and “Details” - chose manually or set to random
 
 “Medium Type”: 6 main types with a lot of subtypes for you to explore.
 
-“Negatives”. The “General” group of negative tags applies to all images, “b&w” prevents black and white images, and “character” prevents bad anatomy for character design.
+“Negatives”. The “General” group of negative tags applies to all images, “b&w” prevents black and white images, and “character” prevents bad anatomy for character design. 
 
 Choose “general+b&w” for non-character images and “general+character+b&w” for character images.
 
@@ -37,7 +40,7 @@ Choose “general+b&w” for non-character images and “general+character+b&w�
 
 “Style Lora” and “Style Embedding” do not have working values. If you are using any for style, feel free to edit appropriate files in the variables folder.
 
-“Style General” and “Style of Video Game”: Use one of these to define the style of the composition. Using both at the same time at random may produce surprising or bad results. Default strength is
+“Style General” and “Style of Video Game”: Use one of these to define the style of the composition. Using both at the same time at random may produce surprising or bad results. Default strength is 
 
 “Color Tone” and “Color scheme”: pick or randomize collar palettes and predefined color schemes.
 
@@ -55,13 +58,15 @@ Choose “general+b&w” for non-character images and “general+character+b&w�
 
 “Camera Shot Type” (example: medium shot), and “Camera Shot Angle” (example: shot from above) are related to scene composition. Not intended to use both at random as values may conflict. Choose fixed values.
 
-“Camera Brand”, “Camera Film Size”, “Camera Focus” and “Camera Focal Length” are more detailed camera settings with safe values set as favorites for non-photographers.
+“Camera Brand”, “Camera Film Size”, “Camera Focus” and “Camera Focal Length” are  more detailed camera settings with safe values set as favorites for non-photographers.
 
 “Photography Type” lets you choose the photography type and for each type, you can enable a variety of related photographers in the “Photographers” sub-menu.
 
-“Variables” are inherited from StylePile. Lets you use sequential, custom positive prompt values in X and Y fields (one per line). The number of these values will multiply your batch count or batch size values if different from 1. Using both A and B will produce: Batch Count x X x Y number of images. Fields marked A, B, and C will use only one random value from the list you put in them. To use a field, add [A] or any other field to your positive prompt.
+“Variables” are inherited from StylePile. Lets you use sequential, custom positive prompt values in X and Y fields (one per line). The number of these values will multiply your batch count or batch size values if different from 1. Using both A and B will produce: Batch Count x X x Y number of images.
+Fields marked A, B, and C will use only one random value from the list you put in them.
+To use a field, add [A] or any other field to your positive prompt.
 
-II. Tab: Female Character
+**II. Tab: Female Character**
 
 “Beauty Descriptor” offers single-word positive words related to female characters.
 
@@ -107,29 +112,28 @@ As for the Head Accessories, you can choose one of “Hair Accessories” or “
 
 “Hand-held Shield” puts a shield on the arm.
 
-III Tab: Male Character
+**III Tab: Male Character**
 
-Very similar usage to Female Character. As expected, some values are adjusted for a male character: “Male Type”, “Body Type” and the dress-up related tags. Additional categories are “Moustache” and “Beard”.
+Very similar usage to Female Character. As expected, some values are adjusted for a male character: “Male Type”, “Body Type” and the dress-up related tags. Additional categories are “Moustache” and “Beard”. 
 
-License
 
-Tool by Peaksel is a free software, released under General Public License 3.0. It follows the same license as the Style Pile script, which was used as an inspiration and starting code base for this project.
+**License**
 
-Credits
+Tool by Peaksel is a free software, released under [General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+It follows the same license as the [Style Pile](https://github.com/some9000/StylePile) script, which was used as an inspiration and starting code base for this project.
 
-Script developed and released by Peaksel, a video games company based in Serbia (LinkedIn):
+**Credits**
 
-Marko Petkovic (LinkedIn): UI, data collection, and end-user testing
+Script developed and released by [Peaksel](https://www.peaksel.com/ "Peaksel's Homepage"), a video games company based in Serbia ([LinkedIn](https://www.linkedin.com/company/peaksel-doo/ "Peaksel's LinkedIn")):
 
-Andrija Ivkovic (LinkedIn): development, data collection, and functional testing
+Marko Petkovic ([LinkedIn](https://www.linkedin.com/in/petkovicmarko/)): UI, data collection, and end-user testing
 
-Dusan Ilic (LinkedIn): development
+Andrija Ivkovic ([LinkedIn](https://www.linkedin.com/in/andrija-ivkovic-6a6285261/)): development, data collection, and functional testing
 
-Values for the script are obtained from multiple sources: Danbooru, AI chatbots (ChatGPT, Bard, Bing), and Civitai community.
+Dusan Ilic ([LinkedIn](https://www.linkedin.com/in/du%C5%A1an-ili%C4%87-a9a85173/)): development
 
-Support
+Values for the script are obtained from multiple sources: [Danbooru](https://danbooru.donmai.us/), AI chatbots ([ChatGPT](https://chat.openai.com/), [Bard](https://bard.google.com/), [Bing](https://www.bing.com/search?q=bing+ai&form=ANNTH1&refig=2422a3eae03b42f5a8961a9afb6f42d8)), and [Civitai](https://civitai.com/?query=wildcards&view=feed) community.
 
-Please let us know about the bugs, feature requests, and new values to add. If you are a member, leave a comment on our Civitai release page or send us an email to: office {at] peaksel {dot} email
+**Support**
 
-"# ToolByPeaksel"
-
+Please let us know about the bugs, feature requests, and new values to add. If you are a member, leave a comment on our [Civitai release page](https://civitai.com/models/99663/tool-by-peaksel-prompting-helper-script-stylepile-on-steroids) or send us an email to: office {at} peaksel {dot} email
