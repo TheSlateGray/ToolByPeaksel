@@ -4,13 +4,16 @@
 
 Tool by Peaksel is a prompt helper extension for Web UI. Built for beginners and professionals alike, it will enrich and speed up your workflow and improve the final quality of the resulting images.
 
+This repository is an unofficial fork to provide Linux and possibly MacOS compatibility.
+
 Using random values will help you generate an unlimited number of prompts in one go, so it is perfect for composition hunting and prompt fin-tuning - the initial stage.
 
 **How to install?**
 
 You can install this extension by going to Extensions > Install from URL and pasting the GitHub link into the field, or by downloading and putting the folder manually to your SD root > Extensions folder.
 
-https://github.com/Peaksel/ToolByPeaksel
+Windows: https://github.com/Peaksel/ToolByPeaksel
+Linux: https://github.com/TheSlateGray/ToolByPeaksel
 
 To have all working out of the box, download and unzip negative embeddings and female character embeddings into your SD Root > Embeddings folder.
 
@@ -40,7 +43,7 @@ Choose “general+b&w” for non-character images and “general+character+b&w�
 
 “Style Lora” and “Style Embedding” do not have working values. If you are using any for style, feel free to edit appropriate files in the variables folder.
 
-“Style General” and “Style of Video Game”: Use one of these to define the style of the composition. Using both at the same time at random may produce surprising or bad results. Default strength is 
+“Style General” and “Style of Video Game”: Use one of these to define the style of the composition. Using both at the same time at random may produce surprising or bad results. Default strength is 1.3.
 
 “Color Tone” and “Color scheme”: pick or randomize collar palettes and predefined color schemes.
 
@@ -135,5 +138,8 @@ Dusan Ilic ([LinkedIn](https://www.linkedin.com/in/du%C5%A1an-ili%C4%87-a9a8517
 Values for the script are obtained from multiple sources: [Danbooru](https://danbooru.donmai.us/), AI chatbots ([ChatGPT](https://chat.openai.com/), [Bard](https://bard.google.com/), [Bing](https://www.bing.com/search?q=bing+ai&form=ANNTH1&refig=2422a3eae03b42f5a8961a9afb6f42d8)), and [Civitai](https://civitai.com/?query=wildcards&view=feed) community.
 
 **Support**
+
+For Linux related issues please open an [issue on the fork's Github](https://github.com/TheSlateGray/ToolByPeaksel/issues).
+
 
 Please let us know about the bugs, feature requests, and new values to add. If you are a member, leave a comment on our [Civitai release page](https://civitai.com/models/99663/tool-by-peaksel-prompting-helper-script-stylepile-on-steroids) or send us an email to: office {at} peaksel {dot} email
