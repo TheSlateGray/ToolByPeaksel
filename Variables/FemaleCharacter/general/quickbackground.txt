@@ -1,4 +1,8 @@
 abandoned warehouse with graffiti;;;;False
+ancient castle interior with royal tapestries;;;;True
+ancient ruins with weathered stone;;;;False
+antique apothecary with glass jars and potions;;;;False
+astronomy observatory with a clear night sky;;;;False
 bustling farmer's market with fresh produce;;;;False
 charming english garden with wrought-iron gate;;;;False
 chic fashion boutique with elegant displays;;;;False
@@ -12,6 +16,7 @@ dusty old attic filled with trinkets and heirlooms;;;;False
 elegant ballroom with crystal chandeliers;;;;False
 elegant french cafe with outdoor seating;;;;True
 elegant staircase in a historic mansion;;;;False
+elegant sushi bar with bamboo decor;;;;False
 enchanting fairy-tale forest with sparkling lights;;;;False
 enchanting garden with ivy-covered walls;;;;False
 extravagant casino floor with flashy slot machines;;;;True
@@ -39,8 +44,8 @@ old-world European street with cobblestones;;;;True
 ornate moroccan-style courtyard;;;;False
 pop art gallery with bold, colorful works;;;;False
 quaint lighthouse with coastal views;;;;False
-rainy city street with neon signs;;;;False
 rain-soaked cobblestone alley in old town;;;;False
+rainy city street with neon signs;;;;False
 romantic rooftop restaurant at twilight;;;;True
 rooftop garden during golden hour;;;;False
 rooftop helipad with cityscape at night;;;;False
@@ -62,8 +67,8 @@ stylish loft with industrial-style decor;;;;False
 sunny yoga studio with hardwood floors;;;;False
 swanky cocktail lounge with leather seating;;;;False
 sweeping vineyard with rows of grapevines;;;;False
-tranquil zen garden with koi pond;;;;True
 traditional tea house with paper lanterns;;;;False
+tranquil zen garden with koi pond;;;;True
 underwater scene with vibrant coral reef;;;;False
 urban rooftop pool with city views;;;;False
 vibrant flower field in full bloom;;;;False
