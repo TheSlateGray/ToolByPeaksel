@@ -1,4 +1,4 @@
-ballistic shield (tactical shield);;;;False
-beam shield;;;;False
-buckler;;;;False
-riot shield;;;;False
+holding a ballistic shield (tactical shield);;;;False
+holding a beam shield;;;;False
+holding a buckler;;;;False
+holding a riot shield;;;;False

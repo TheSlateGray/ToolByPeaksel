@@ -114,8 +114,8 @@ LegsDescriptorDir   = os.path.join(scripts.basedir(),f"Variables/FemaleCharacter
 WardrobeDir         = os.path.join(scripts.basedir(),f"Variables/FemaleCharacter/wardrobe/wardrobe.txt")
 WardrobeSubDir      = os.path.join(scripts.basedir(),f"Variables/FemaleCharacter/wardrobe/wardrobe/")
 
-FootwearDir         = os.path.join(scripts.basedir(),f"Variables/FemaleCharacter/footwear/footware.txt")
-FootwearSubDir      = os.path.join(scripts.basedir(),f"Variables/FemaleCharacter/footwear/footware/")
+FootwearDir         = os.path.join(scripts.basedir(),f"Variables/FemaleCharacter/footwear/footwear.txt")
+FootwearSubDir      = os.path.join(scripts.basedir(),f"Variables/FemaleCharacter/footwear/footwear/")
 
 # Female Character RPG
 FemaleBodyArmorDir          = os.path.join(scripts.basedir(),f"Variables/FemaleCharacter/RPG/fullbodyarmor.txt")
@@ -153,10 +153,10 @@ MaleAgeDir              = os.path.join(scripts.basedir(),f"Variables/MaleCharact
 MaleSkinDir             = os.path.join(scripts.basedir(),f"Variables/MaleCharacter/body/maleskin.txt")
 
 MaleWardrobeDir         = os.path.join(scripts.basedir(),f"Variables/MaleCharacter/wardrobe/wardrobe.txt")
-MaleWardorbeSubDir      = os.path.join(scripts.basedir(),f"Variables/MaleCharacter/wardrobe/submenus/")
+MaleWardorbeSubDir      = os.path.join(scripts.basedir(),f"Variables/MaleCharacter/wardrobe/wardrobe/")
 
 MaleFootwearDir         = os.path.join(scripts.basedir(),f"Variables/MaleCharacter/footwear/footwear.txt")
-MaleFootwearSubDir      = os.path.join(scripts.basedir(),f"Variables/MaleCharacter/footwear/submenus/")
+MaleFootwearSubDir      = os.path.join(scripts.basedir(),f"Variables/MaleCharacter/footwear/footwear/")
 
 
 # Male Character HEAD

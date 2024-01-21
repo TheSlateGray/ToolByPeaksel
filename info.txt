@@ -21,9 +21,9 @@ beautydescriptor femaletype, (femalecelebrity or embedding or both), originornat
 Female Celebrity and Embedding
 =======
 
-[celebrity|embedding] - ako se obe vrednosti koriste u isto vreme, prompt da kuca ovako i da ignorase jacinu - ovo je ver pola pola komanda. Ako se koristi samo jedna vrednost od dve, jacina vazi za nju.
+[celebrity|embedding] - if both values are used at the same time, prompt to type like this and ignore volume - this is true half and half command. If only one of the two values is used, the strength applies to it.
 
-U Help text ide link za download: https://app.box.com/s/wuixxldr51u5yx5rhevgmjkffhg5v0kd
+There is a download link in the Help text: https://app.box.com/s/wuixxldr51u5yx5rhevgmjkffhg5v0kd
 
 ============
 Section 2: head
@@ -66,11 +66,11 @@ Wearing bridal corset
 
 Wearing wardrobe or wardrobe subitem
 
-Ista logika za footwear
+Same logic for footwear
 
 =========================================
 
-ChatGTP komanda za konvertovanje podataka
+ChatGTP data conversion command
 
 Take this list and make each line in this format: "value;;;;False". After that, correct the grammar if needed, sort the list alphabetically and make all the first letters in the lines small caps. List: 
 
