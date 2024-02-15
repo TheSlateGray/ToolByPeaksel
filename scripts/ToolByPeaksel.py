@@ -3235,7 +3235,7 @@ class Script(scripts.Script):
                 gr.HTML("<h1>Settings</h1>")
 
                 gr.HTML("<h2>Default Tab</h2>")
-                gr.HTML("<p>Default Tab when u start the script")
+                gr.HTML("<p>Default Tab when you start the script")
 
                 Tabs = []
                 Tabs.append("Default")
@@ -3273,16 +3273,16 @@ class Script(scripts.Script):
 
                 gr.HTML("<h2>Licence</h2>")
                 gr.HTML(
-                    '<p>Tool by Peaksel is a free software, released under General Public <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank" style="color: #3498db; text-decoration: underline;">License 3.0()</a>.<br/>'
+                    '<p>Tool by Peaksel is a free software, released under General Public <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank" style="color: #3498db; text-decoration: underline;">License 3.0</a>.<br/>'
                     + 'It follows the same license as the <a href="https://github.com/some9000/StylePile" target="_blank" style="color: #3498db; text-decoration: underline;">Style Pile</a> script, which was used as an inspiration and starting code base for this project.</p>'
                 )
                 gr.HTML("<h2>Credits</h2>")
                 gr.HTML(
-                    "<p>Script developed and released by Peaksel, video games company from Serbia (website, LinkedIN): <br/>"
+                    "<p>Script developed and released by Peaksel, video games company from Serbia (website, LinkedIn): <br/>"
                     + 'Marko Petkovic <a href="https://www.linkedin.com/in/petkovicmarko/" target="_blank" style="color: #3498db; text-decoration: underline;">LinkedIn</a> : UI, data collection and end user testing  <br/>'
                     + 'Dusan Ilic <a href="https://www.linkedin.com/in/du%C5%A1an-ili%C4%87-a9a85173/" target="_blank" style="color: #3498db;; text-decoration: underline;">LinkedIn</a> : development and functional testing  <br/>'
                     + 'Andrija Ivkovic <a href="https://www.linkedin.com/in/andrija-ivkovic-6a6285261/" target="_blank" style="color: #3498db; text-decoration: underline;">LinkedIn</a> : development, data collection and functional testing  <br/>'
-                    + 'Values for the script are obtained from multiple sources:<a href="https://danbooru.donmai.us/" target="_blank" style="color: #3498db; text-decoration: underline;">Danbooru</a>, AI chatbots (<a href="https://chat.openai.com/" target="_blank" style="color: #3498db; text-decoration: underline;">ChatGPT</a>, <a href="https://bard.google.com/" target="_blank" style="color: #3498db; text-decoration: underline;">Bard</a>, <a href="https://www.bing.com/search?q=bing+ai&form=ANNTH1&refig=2422a3eae03b42f5a8961a9afb6f42d8" target="_blank" style="color: #3498db; text-decoration: underline;">Bing</a>) and <a href="https://civitai.com/?query=wildcards&view=feed" target="_blank" style="color: #3498db; text-decoration: underline;"> Civitai </a> community</p>'
+                    + 'Values for the script are obtained from multiple sources: <a href="https://danbooru.donmai.us/" target="_blank" style="color: #3498db; text-decoration: underline;">Danbooru</a>, AI chatbots (<a href="https://chat.openai.com/" target="_blank" style="color: #3498db; text-decoration: underline;">ChatGPT</a>, <a href="https://bard.google.com/" target="_blank" style="color: #3498db; text-decoration: underline;">Bard</a>, <a href="https://www.bing.com/search?q=bing+ai" target="_blank" style="color: #3498db; text-decoration: underline;">Bing</a>) and <a href="https://civitai.com/?query=wildcards&view=feed" target="_blank" style="color: #3498db; text-decoration: underline;"> Civitai </a> community</p>'
                 )
 
         return [
