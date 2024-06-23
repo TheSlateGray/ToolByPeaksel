@@ -1,3 +1,4 @@
+score_9, score_8_up, score_7_up, BREAK;;;;True
 masterpiece, best quality, detailed;;;;True
 masterpiece, best quality, absurdres, detailed, ultra-detailed;;;;True
 gorgeous, beautiful, enchanting;;;;True
